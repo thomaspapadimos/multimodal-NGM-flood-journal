@@ -1,0 +1,11 @@
+pip install tweet-preprocessor
+pip isntall numpy
+pip install sklearn
+pip install matplotlib
+pip install pandas
+pip install nltk
+pip install gensim
+pip install simpletransformers
+pip install torch
+pip install tensorflow
+pip install keras
